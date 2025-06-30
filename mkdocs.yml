@@ -152,7 +152,7 @@ plugins:
         'kuadrant-operator/doc/user-guides/full-walkthrough/secure-protect-connect-openshift.md': 'kuadrant-operator/doc/user-guides/full-walkthrough/secure-protect-connect.md'
 nav:
   - 'Overview': index.md
-  - 'Getting Started': getting-started.md
+  - 'Getting Started': 1.2.x/getting-started.md
   - 'Installation':
       - 'Install with Helm': install-helm.md
       - 'Install with OLM': install-olm.md
